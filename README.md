@@ -60,11 +60,34 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+name: Generate Snake
 
----
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: vishakhapatidar040
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ### 🌐 Connect With Me
 
