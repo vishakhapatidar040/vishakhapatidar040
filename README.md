@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vishakha Patidar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=160&section=header&text=Vishakha%20Patidar&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=18&fontAlign=50" alt="header banner" width="100%"/>
+</p>
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Aspiring+Software+Engineer;Python+Developer;Learning+DSA+%26+Backend+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Aspiring+Software+Engineer;Python+Developer;Learning+DSA+%26+Backend+Dev" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,12 +48,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishakhapatidar040&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakhapatidar040&theme=default" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishakhapatidar040&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=vishakhapatidar040&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -66,12 +68,15 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vishakha-patidar-0a7a25336" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vishakhapatidar040@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/vishakhapatidar040" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
