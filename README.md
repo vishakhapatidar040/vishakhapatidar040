@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishakhapatidar040&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vishakhapatidar040&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=30&section=header" width="100%"/>
+</p>
 
 ### 🚀 About Me
 
@@ -23,27 +25,24 @@
 - 📫 Reach me at: **vishakhapatidar040@gmail.com**
 - ⚡ Fun fact: **[something short and human — a hobby, a quirky fact]**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=30&section=header" width="100%"/>
+</p>
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github,vscode,mysql&theme=dark" alt="tech icons"/>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-**Tools & Libraries**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=30&section=header" width="100%"/>
+</p>
 
 ### 📊 GitHub Stats
 
@@ -56,38 +55,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=30&section=header" width="100%"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishakhapatidar040&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=30&section=header" width="100%"/>
+</p>
 
 ### 🐍 Contribution Snake
 
-name: Generate Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: vishakhapatidar040
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=30&section=header" width="100%"/>
+</p>
 
 ### 🌐 Connect With Me
 
@@ -103,6 +93,8 @@ jobs:
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2E9EF7&height=100&section=footer" width="100%"/>
+</p>
 
 <p align="center"><i>Thanks for stopping by! ⭐️ More projects coming soon as I keep learning and building.</i></p>
