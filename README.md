@@ -40,12 +40,43 @@ I'm a 🎓 **2nd-year B.Tech Computer Science Engineering** student at **Sage Un
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
 
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-3B82F6?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3B82F6?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-3B82F6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3B82F6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![Tools](https://img.shields.io/badge/⚡_Tools-EC4899?style=for-the-badge)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111827,100:3B82F6&height=70&section=header&text=📊%20GitHub%20Stats%20%26%20Activity&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
+</div>
+
+<div align="center">
+
+![Performance](https://img.shields.io/badge/📈_Performance-3B82F6?style=for-the-badge)
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishakhapatidar040&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=c9d1d9&border_color=3B82F6&hide_border=false&count_private=true" alt="GitHub Stats" height="175"/>
+
+![Streak](https://img.shields.io/badge/🔥_Streak-EC4899?style=for-the-badge)
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakhapatidar040&theme=tokyonight&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=3B82F6&border=3B82F6" alt="Streak Stats" height="175"/>
+
+<br/><br/>
+
+![Languages](https://img.shields.io/badge/🥧_Language_Breakdown-6366F1?style=for-the-badge)
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=pie&theme=tokyonight&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&border_color=3B82F6&hide_border=false" alt="Top Languages Pie Chart" height="220"/>
 
 </div>
 
