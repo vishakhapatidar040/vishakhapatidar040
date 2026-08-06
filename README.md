@@ -37,13 +37,16 @@ Currently leveling up my 🧠 Data Structures & Algorithms and backend skills.
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Dashboard
 <div align="center">
 
+<!-- Performance Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=vishakhapatidar040&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=c9d1d9&border_color=3B82F6" height="170" alt="GitHub Stats"/>
 
+<!-- Streaks -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakhapatidar040&theme=tokyonight&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=3B82F6&border=3B82F6" height="170" alt="Streak Stats"/>
 
+<!-- Pie Chart -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=pie&theme=tokyonight&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&border_color=3B82F6" height="170" alt="Top Languages Pie Chart"/>
 
 </div>
