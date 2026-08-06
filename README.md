@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Professional Gradient Banner -->
+<!-- Portfolio Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:6366F1&height=220&section=header&text=Vishakha%20Patidar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Undergraduate%20%7C%20Python%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vishakha+Patidar;💻+Computer+Science+Undergraduate;🐍+Python+Developer+%7C+Backend+Enthusiast;⚡+Passionate+about+Coding+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vishakha+Patidar;💻+Computer+Science+Undergraduate;🐍+Python+Developer+%7C+Backend+Enthusiast;⚡+Passionate+about+Coding+%26+Automation" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,15 +14,13 @@
 
 ## 👩‍💻 Who I Am
 🎓 2nd‑year B.Tech Computer Science Engineering student at **Sage University, Indore**.  
-I love 🐍 Python backend development, ⚙️ automation, and solving tricky problems.  
-Currently leveling up my 🧠 Data Structures & Algorithms and backend skills.  
-🚀 Actively looking for **Software Engineering internships / new‑grad roles**.  
-
-☕ *Fun fact: I debug best with a good playlist and a hot cup of chai.*
+💻 Love coding in Python and solving Data Structure & Algorithm problems.  
+🚀 Actively looking for software engineering internships and backend roles.  
+🎧 Fun fact: I debug best with a good playlist and a hot cup of chai.  
 
 ---
 
-## 🛠 Languages
+## 🧠 Languages
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> 
@@ -61,14 +59,4 @@ Currently leveling up my 🧠 Data Structures & Algorithms and backend skills.
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://www.linkedin.com/in/vishakha-patidar-0a7a25336?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-[![Gmail](https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EC4899)](mailto:vishakhapatidar040@gmail.com)  
-📩 Reach me at **vishakhapatidar040@gmail.com**  
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=3B82F6)](https://github.com/vishakhapatidar040)
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0D1117&height=120&section=footer" width="100%"/>
-<i>✨ Thanks for stopping by — let's build something great together! ✨</i>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://www.linkedin.com/in/vishakha-patidar-0a7a25336?utm_source=share_via
