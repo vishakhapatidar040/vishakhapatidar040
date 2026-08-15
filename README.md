@@ -230,6 +230,20 @@ foundations.
 
 </div>
 
+<br>
+
+## 🟩 My Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/gh-pages/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution graph">
+</picture>
+
+</div>
+
 ## 🔥 GitHub Contribution Streak
 
 <div align="center">
