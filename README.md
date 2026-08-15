@@ -222,14 +222,13 @@ foundations.
 - Contribute to open-source projects.
 
 ---
-## 📊 My GitHub Metrics
+## 💻 Code • Learn • Grow
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="Vishakha's animated GitHub metrics">
+<img src="./github-metrics.svg" alt="Vishakha's GitHub metrics">
 
 </div>
-
 
 ## 🔥 GitHub Contribution Streak
 
