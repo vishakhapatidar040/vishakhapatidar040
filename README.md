@@ -227,13 +227,12 @@ foundations.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishakhapatidar040&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Vishakha's GitHub statistics">
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=vishakhapatidar040&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vishakha's GitHub statistics">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" alt="Vishakha's programming language pie chart">
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" alt="Vishakha's programming language pie chart">
 
 </div>
 
----
 
 ## 🔥 GitHub Contribution Streak
 
@@ -260,20 +259,6 @@ foundations.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishakhapatidar040&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&custom_title=Vishakha's%20GitHub%20Activity" alt="Vishakha's GitHub activity graph">
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
