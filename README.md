@@ -1,62 +1,72 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E5BFF&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Vishakha+Patidar;B.Tech+CSE+Student+%40+Sage+Univ.;Backend+Developer+%7C+Python+%26+DSA;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
 
-<!-- Portfolio Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B82F6,100:6366F1&height=220&section=header&text=Vishakha%20Patidar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Undergraduate%20%7C%20Python%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
+  <br />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vishakha+Patidar;💻+Computer+Science+Undergraduate;🐍+Python+Developer+%7C+Backend+Enthusiast;⚡+Passionate+about+Coding+%26+Automation" alt="Typing SVG" />
-</a>
-
+  <a href="https://www.linkedin.com/in/vishakha-patidar-0a7a25336">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vishakhapatidar040@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/vishakhapatidar040">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
-## 👩‍💻 Who I Am
-🎓 2nd‑year B.Tech Computer Science Engineering student at **Sage University, Indore**.  
-💻 Love coding in Python and solving Data Structure & Algorithm problems.  
-🚀 Actively looking for software engineering internships and backend roles.  
-🎧 Fun fact: I debug best with a good playlist and a hot cup of chai.  
+## 👩‍💻 About Me
+
+🎓 **Education:** B.Tech Computer Science & Engineering ('29) at **Sage University, Indore** ⚙️ **Core Focus:** Python Development, Data Structures & Algorithms (DSA), Backend Engineering  
+🎯 **Target Roles:** Software Engineering & Backend Internships  
+☕ **Fun Fact:** I debug best with clean code, logic, and a good playlist!
 
 ---
 
-## 🧠 Languages
+## 🛠️ Tech Stack & Skills
+
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  
+  <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> 
-
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Data_Structures-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
 </div>
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Analytics & Projects Overview
+
 <div align="center">
-
-<!-- Performance Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=vishakhapatidar040&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=c9d1d9&border_color=3B82F6" height="170" alt="GitHub Stats"/>
-
-<!-- Streaks -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishakhapatidar040&theme=tokyonight&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=3B82F6&border=3B82F6" height="170" alt="Streak Stats"/>
-
-<!-- Pie Chart -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=pie&theme=tokyonight&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&border_color=3B82F6" height="170" alt="Top Languages Pie Chart"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vishakhapatidar040&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishakha's GitHub Stats" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
 
-## 📂 Projects
-- **Attendance Management System**  
-  🔗 [View Repository](https://github.com/vishakhapatidar040/attendance-management-system)  
-  *Python + Flask project to manage student attendance efficiently.*
+## 📂 Featured Repositories & Projects
+
+Here are some of my auto-updated public repositories:
+
+<div align="center">
+  <a href="https://github.com/vishakhapatidar040">
+    <img src="https://github-readme-repo-cards.vercel.app/api/pin/?username=vishakhapatidar040&repo=vishakhapatidar040&theme=tokyonight" alt="Profile Repository" />
+  </a>
+</div>
+
+> 💡 *Note: Direct links to all my repositories are accessible under the **[Repositories Tab](https://github.com/vishakhapatidar040?tab=repositories)** on my GitHub profile.*
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://www.linkedin.com/in/vishakha-patidar-0a7a25336?utm_source=share_via
+<div align="center">
+  ⚡ <i>"Turning logic into clean, efficient code."</i>
+</div>
