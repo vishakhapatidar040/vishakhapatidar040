@@ -222,14 +222,11 @@ foundations.
 - Contribute to open-source projects.
 
 ---
-
-## 📊 GitHub Statistics
+## 📊 My GitHub Metrics
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=vishakhapatidar040&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vishakha's GitHub statistics">
-
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" alt="Vishakha's programming language pie chart">
+<img src="./github-metrics.svg" alt="Vishakha's animated GitHub metrics">
 
 </div>
 
