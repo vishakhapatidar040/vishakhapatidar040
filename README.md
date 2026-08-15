@@ -226,21 +226,7 @@ foundations.
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="Vishakha's GitHub metrics">
-
-</div>
-
-<br>
-
-## 🟩 My Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/gh-pages/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/vishakhapatidar040/vishakhapatidar040/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution graph">
-</picture>
+<img src="./github-metrics-2.svg" alt="Vishakha's GitHub metrics">
 
 </div>
 
