@@ -1,72 +1,144 @@
+<!-- =====================================================
+     VISHakha PATIDAR - GITHUB PROFILE README
+====================================================== -->
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E5BFF&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Vishakha+Patidar;B.Tech+CSE+Student+%40+Sage+Univ.;Backend+Developer+%7C+Python+%26+DSA;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
 
-  <br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=270&section=header&text=VISHAKHA%20PATIDAR&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Undergraduate%20Software%20Engineer%20%7C%20AI%2FML%20Learner&descAlignY=62&descSize=18" width="100%" alt="Vishakha Patidar animated header">
 
-  <a href="https://www.linkedin.com/in/vishakha-patidar-0a7a25336">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vishakhapatidar040@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/vishakhapatidar040">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Undergraduate+Software+Engineer;AI%2FML+Learner;Python+Developer+in+Progress;Building+Projects+and+Learning+Every+Day" alt="Typing animation">
+
 </div>
+
+<br>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 **Education:** B.Tech Computer Science & Engineering ('29) at **Sage University, Indore** ⚙️ **Core Focus:** Python Development, Data Structures & Algorithms (DSA), Backend Engineering  
-🎯 **Target Roles:** Software Engineering & Backend Internships  
-☕ **Fun Fact:** I debug best with clean code, logic, and a good playlist!
+<table>
+<tr>
+<td width="65%">
+
+### Hi, I'm Vishakha Patidar 👋
+
+I am an **Undergraduate Software Engineer** interested in
+**Artificial Intelligence and Machine Learning**.
+
+I am currently learning and developing my skills in:
+
+- Python development
+- Artificial Intelligence and Machine Learning
+- Frontend and backend development
+- C and C++
+- Data Structures and Algorithms
+- Git and GitHub
+
+I enjoy creating practical projects, improving my problem-solving skills,
+and learning how software can solve real-world problems.
+
+</td>
+
+<td width="35%" align="center">
+
+```text
+Name:
+Vishakha Patidar
+
+Role:
+Undergraduate
+Software Engineer
+
+Domain:
+AI / ML
+
+Learning:
+Python
+AI/ML
+Frontend
+Backend
+C
+C++
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  
-  <br/>
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Data_Structures-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
+<a href="https://github.com/vishakhapatidar040">
+<img src="https://img.shields.io/badge/GitHub-vishakhapatidar040-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/vishakha-patidar-0a7a25336">
+<img src="https://img.shields.io/badge/LinkedIn-Vishakha%20Patidar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:vishakhapatidar040@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-vishakhapatidar040-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Projects Overview
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishakhapatidar040&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishakha's GitHub Stats" height="165" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhapatidar040&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
+### Programming Languages
 
----
+<p align="left">
 
-## 📂 Featured Repositories & Projects
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="55">
+</a>
 
-Here are some of my auto-updated public repositories:
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="55">
+</a>
 
-<div align="center">
-  <a href="https://github.com/vishakhapatidar040">
-    <img src="https://github-readme-repo-cards.vercel.app/api/pin/?username=vishakhapatidar040&repo=vishakhapatidar040&theme=tokyonight" alt="Profile Repository" />
-  </a>
-</div>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://skillicons.dev/icons?i=c" alt="C" height="55">
+</a>
 
-> 💡 *Note: Direct links to all my repositories are accessible under the **[Repositories Tab](https://github.com/vishakhapatidar040?tab=repositories)** on my GitHub profile.*
+</p>
 
----
+### Development Tools
 
-<div align="center">
-  ⚡ <i>"Turning logic into clean, efficient code."</i>
-</div>
+<p align="left">
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" height="55">
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="55">
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="55">
+</a>
+
+</p>
+
+### Development Areas
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=bookstack&logoColor=white" alt="Data Structures">
+
+<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgoritms&logoColor=white" alt="Algorithms">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=ai&logoColor=white" alt="Artificial Intelligence">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-00A67E?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Machine Learning">
+
+<img src="https://img.shields.io/badge/Frontend%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Development">
+
+<img src="https://img.shields.io/badge/Backend%20Development-68217A?st
